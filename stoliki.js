@@ -11,14 +11,14 @@ var myArray = [
     {
     'miejsca':'4',
     // czy wolne?
-     'wolne':'Nie',
+     'wolne':'Tak',
     },
 
     // 6 osobowe
     {
     'miejsca':'6',
     // czy wolne?
-    'wolne':'Nie',
+    'wolne':'Tak',
     },
 ]
 
