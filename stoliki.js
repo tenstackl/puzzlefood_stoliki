@@ -4,7 +4,7 @@ var myArray = [
     {
     'miejsca':'2',
     // czy wolne?
-    'wolne':'Nie',
+    'wolne':'Tak',
     },
 
     // 4 osobowe
