@@ -4,21 +4,21 @@ var myArray = [
     {
     'miejsca':'2',
     // czy wolne?
-    'wolne':'Nie',
+    'wolne':'-',
     },
 
     // 4 osobowe
     {
     'miejsca':'4',
     // czy wolne?
-     'wolne':'Nie',
+     'wolne':'-',
     },
 
     // 6 osobowe
     {
     'miejsca':'6',
     // czy wolne?
-    'wolne':'Tak',
+    'wolne':'-',
     },
 ]
 
