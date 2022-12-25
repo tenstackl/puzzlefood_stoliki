@@ -20,6 +20,18 @@ var myArray = [
     // czy wolne?
     'wolne':'-',
     },
+       // 8 osobowe
+    {
+    'miejsca':'8',
+    // czy wolne?
+    'wolne':'-',
+    },
+        // 10 osobowe
+    {
+    'miejsca':'10',
+    // czy wolne?
+    'wolne':'-',
+    },
 ]
 
 buildTable(myArray)
